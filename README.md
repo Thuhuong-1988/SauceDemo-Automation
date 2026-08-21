@@ -17,3 +17,6 @@
 - `pages/`: Page Object Model classes
 - `tests/`: Spec files (E2E and Unit tests)
 - `utils/`: Helper functions (Email Validator)
+
+## Documentation
+- View the detailed [Test Plan](./test-plan.md) for automated scenarios, test scope, risks, and assumptions.
