@@ -1,5 +1,12 @@
 # SauceDemo Playwright Automation E2E
 
+## Tech Stack & Language
+- **Language:** TypeScript
+- **Test Framework:** Playwright
+- **Design Pattern:** Page Object Model (POM)
+
+## Prerequisites
+- Node.js (v16 or higher)
 ## Prerequisites
 - Node.js (v16 or higher)
 
