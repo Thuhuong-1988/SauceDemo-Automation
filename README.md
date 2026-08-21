@@ -19,4 +19,4 @@
 - `utils/`: Helper functions (Email Validator)
 
 ## Documentation
-- View the detailed [Test Plan](./test-plan.md) for automated scenarios, test scope, risks, and assumptions.
+- View the detailed [Test Plan](./TEST_PLAN.md) for automated scenarios, test scope, risks, and assumptions.
